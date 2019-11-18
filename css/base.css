@@ -1,0 +1,13 @@
+.canvas {
+    background-color: azure;
+}
+
+.left {
+    position: relative;
+    left: 0px;
+}
+
+.right {
+    position: relative;
+    left: 520px;
+}
